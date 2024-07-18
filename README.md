@@ -1,3 +1,4 @@
+
 # Dicee Game
 
 This project is a simple Dice game where two players roll a dice, and the player with the higher roll wins. If both players roll the same number, it's a draw. The game is built using HTML, CSS, and JavaScript.
@@ -86,8 +87,3 @@ You need a web browser to run this project. No additional software or libraries 
 ## Credits
 
 Developed by: Ahmed Fathelbab. Feel free to use and modify the code as needed. Contributions are welcome!
-
-with open("/mnt/data/README.md", "w") as file:
-    file.write(readme_content)
-
-"/mnt/data/README.md"
