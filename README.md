@@ -29,14 +29,14 @@ You need a web browser to run this project. No additional software or libraries 
 ### Installation
 
 1. Clone the repository:
-   \`\`\`sh
+   \'\'\'sh
    git clone https://github.com/your-username/dicee-game.git
-   \`\`\`
+   \'\'\'
 2. Navigate to the project directory:
-   \`\`\`sh
+   \'\'\'sh
    cd dicee-game
-   \`\`\`
-3. Open \`index.html\` in your web browser to start the game.
+   \'\'\'
+3. Open \'index.html\' in your web browser to start the game.
 
 ## Usage
 
@@ -45,7 +45,7 @@ You need a web browser to run this project. No additional software or libraries 
 
 ## File Structure
 
-\`\`\`
+\'\'\'
 /project-root
 ├── /assets
 │   ├── /css
@@ -61,7 +61,7 @@ You need a web browser to run this project. No additional software or libraries 
 │       └── main.js
 ├── index.html
 └── README.md
-\`\`\`
+\'\'\'
 
 ## Functionality
 
@@ -77,12 +77,12 @@ You need a web browser to run this project. No additional software or libraries 
 
 - **main.js**: Manages the game logic, including rolling the dice, determining the winner, and updating the page with the results.
 
-### Key Functions in \`main.js\`
+### Key Functions in \'main.js\'
 
-- **\`headToHead()\`**: The main function that rolls the dice for both players, determines the winner, and updates the page with the results.
-- **\`firstPlayerDice()\`**: Rolls the dice for the first player and returns the result.
-- **\`secondPlayerDice()\`**: Rolls the dice for the second player and returns the result.
-- **\`randomDiceRoll()\`**: Generates a random number between 1 and 6 to simulate a dice roll.
+- **\'headToHead()\'**: The main function that rolls the dice for both players, determines the winner, and updates the page with the results.
+- **\'firstPlayerDice()\'**: Rolls the dice for the first player and returns the result.
+- **\'secondPlayerDice()\'**: Rolls the dice for the second player and returns the result.
+- **\'randomDiceRoll()\'**: Generates a random number between 1 and 6 to simulate a dice roll.
 
 ## Credits
 
